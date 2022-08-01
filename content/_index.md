@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: Sijin Wu
 type: book # Do not modify.
 toc: false
 
