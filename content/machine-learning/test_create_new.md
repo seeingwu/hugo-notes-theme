@@ -1,40 +1,13 @@
+---
 widget: accomplishments
 headless: true  # This file represents a page section.
-
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 1
-
-# Section title
-title: test
-
-
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
----
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with `>-`.
+;# Accomplishments.  
+;#   Add/remove as many `item` blocks below as you like.
+;#   `title`, `organization` and `date_start` are the required parameters.
+;#   Leave other parameters empty if not required.
+;#   Begin/end multi-line descriptions with `>-`.
 item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
@@ -61,3 +34,4 @@ item:
     date_start: '2017-07-01'
     date_end: '2017-12-21'
     description: ''
+---
