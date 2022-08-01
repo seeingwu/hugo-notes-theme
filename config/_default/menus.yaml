@@ -9,4 +9,4 @@ main:
     weight: 10  
   - name: Blog
     url: /#machine-learning  
-    weight: 10
+    weight: 20
